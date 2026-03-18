@@ -1,0 +1,4 @@
+data/
+mock_data/*.parquet
+mock_data/*.gz
+__pycache__/
