@@ -1,4 +1,6 @@
 data/
 mock_data/*.parquet
 mock_data/*.gz
+outputs/
+*.pdf
 __pycache__/
